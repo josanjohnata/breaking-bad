@@ -1,9 +1,10 @@
 {
   "name": "portfolio-gama",
-  "homepage": "http://josanjohnata.github.io/breaking-bad",
   "version": "0.1.0",
+  "homepage": "http://josanjohnata.github.io/breaking-bad",
   "private": true,
   "dependencies": {
+    "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
