@@ -1,5 +1,3 @@
-/* Primeira parte */
-
 * {
   box-sizing: border-box;
   margin: 0;
@@ -14,7 +12,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-/* a {
+a {
   text-decoration: none;
 }
 
@@ -138,4 +136,4 @@ input[type='text'] {
     height: 300px;
     object-fit: contain;
   }
-} */
+}
