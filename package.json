@@ -1,6 +1,6 @@
 {
   "name": "portfolio-gama",
-  "homepage": "http://{josanjohnata}.github.io/{breaking-bad}",
+  "homepage": "http://josanjohnata.github.io/breaking-bad",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
