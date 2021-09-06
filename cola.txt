@@ -1,0 +1,9 @@
+1 - criar um react app.
+2 - criar um repositório no github e conectar com o projeto.
+3 - Organizar o ambiente, deixando apenas app.js, app.css e index.
+4 - Instalar a biblioteca axios 'mpn i axios'
+5 - criar a pasta img.
+6 - Inicia o CSS e add o background
+7 - Add header
+8 - ADD hooks
+9 - criar o git pages
