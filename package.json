@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "homepage": "http://josanjohnata.github.io/breaking-bad",
   "private": true,
-  "homepage": "https://josanjohnata.github.io/breaking-bad",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.14.1",
@@ -16,7 +15,6 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "deploy": "npm run build && ./node_modules/.bin/gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
